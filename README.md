@@ -1,3 +1,3 @@
 # Makeup brand Statics
 
-<img src="https://www.mbmmakeupstudio.com/wp-content/uploads/2022/06/Essentials-in-a-Beginners-Makeup-Kit.jpg" width="100%" height="auto></img>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://blog.nkgabc.com/wp-content/uploads/2023/06/Makeup-Kit-Registration-in-India-NKG-Step-by-Step-Guide-1.jpg" width="981" height="551">
